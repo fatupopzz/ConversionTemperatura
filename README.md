@@ -20,7 +20,8 @@ Diagrama de casos de uso
 ![Diagrama de casos de uso](https://github.com/fatupopzz/ConversionTemperatura/blob/3d2036ab4962f7b908570b602a22ba2466fa1354/D1.png)
 
 Diagrama de clases:
-![Diagrama de casos de uso](https://github.com/fatupopzz/ConversionTemperatura/blob/01a83ff1d5f993a02ad25594135890bafd6d3b46/D2.png)
+![Diagrama](https://github.com/fatupopzz/ConversionTemperatura/blob/01a83ff1d5f993a02ad25594135890bafd6d3b46/D2.png)
 
 Diagrama de secuencia:
-![Diagrama de casos de uso](https://github.com/fatupopzz/ConversionTemperatura/blob/01a83ff1d5f993a02ad25594135890bafd6d3b46/D3.png)
+
+![Diagrama](https://github.com/fatupopzz/ConversionTemperatura/blob/01a83ff1d5f993a02ad25594135890bafd6d3b46/D3.png)
