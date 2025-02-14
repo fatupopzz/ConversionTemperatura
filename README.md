@@ -16,4 +16,5 @@ sbcl --load temperatura.lisp
 (sb-ext:quit)
 
 ## Inicio de diseño del Intérprete:
-file:///C:/Users/andes/Downloads/D1.png
+Diagrama de casos de uso 
+![Diagrama de casos de uso](file:///C:/Users/andes/Downloads/D1.png)
