@@ -14,3 +14,6 @@ sbcl --load temperatura.lisp
 
 ## Salir
 (sb-ext:quit)
+
+## Inicio de diseño del Intérprete:
+file:///C:/Users/andes/Downloads/D1.png
