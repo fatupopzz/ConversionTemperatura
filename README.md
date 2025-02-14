@@ -17,4 +17,4 @@ sbcl --load temperatura.lisp
 
 ## Inicio de diseño del Intérprete:
 Diagrama de casos de uso 
-![Diagrama de casos de uso](file:///C:/Users/andes/Downloads/D1.png)
+![Diagrama de casos de uso](https://github.com/fatupopzz/ConversionTemperatura/blob/3d2036ab4962f7b908570b602a22ba2466fa1354/D1.png)
